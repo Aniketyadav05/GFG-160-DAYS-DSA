@@ -82,6 +82,6 @@ To contribute:
 
 If you have any ❓ questions, feel free to reach out:
 
-- **🐱 GitHub**: [YourUsername](https://github.com/Aniketyadav05)
+- **🐱 GitHub**: [ANIKETYADAV](https://github.com/Aniketyadav05)
 - **✉️ Email**: yadavaniket7611@gmail.com
 
